@@ -44,3 +44,8 @@ pip install transformers opencv-python pillow
 
 * `TOPK`, `CONF_THRESH`, `FRAME_SKIP` se ajustan en el script.
 * Si ves `num_labels` distinto de 174, estás usando un checkpoint reducido.
+
+Info:
+https://ai.meta.com/vjepa/
+https://huggingface.co/docs/transformers/main/model_doc/vjepa2#usage-example
+https://huggingface.co/datasets/HuggingFaceM4/something_something_v2
